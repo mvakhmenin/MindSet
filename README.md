@@ -1,2 +1,2 @@
-# MindSet
-Notebooks from internership in MindSet company (https://m-s-e-t.com/)
+# Ноутбуки со стажировки MindSet
+Ноутбуки со стажировки в компании MindSet (https://m-s-e-t.com/)
